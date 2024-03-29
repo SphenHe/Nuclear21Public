@@ -4,6 +4,10 @@
 
 [README](README.md)
 
+## What's new
+
+* [更新日志](whatsnew.md)
+
 ## 目录
 
 * [看天下](magazine/KTX/KTX.md)

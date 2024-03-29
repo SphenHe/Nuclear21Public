@@ -1,6 +1,6 @@
 ## 简介
 
-本仓库主要用于发布核21的期刊，目前包括以下内容：
+本仓库主要用于发布核21的杂志目录，目前包括以下内容：
 
 - [看天下](/magazine/KTX/KTX.md)
 - [环球科学](/magazine/HQKX/HQKX.md)
@@ -17,6 +17,3 @@
 
 本文档在 [GitHub](https://github.com/SphenHe/Nuclear21Public) 上进行维护，并在 [GitBook](https://nuclear21.gitbook.io/magazine) 上发布便于阅读的版本
 
-## 贡献
-
-如果对文档内容有异议或想要分享更多的内容，可以提出 [issue](https://github.com/SphenHe/Nuclear21Public/issues) 或提交 [pull request](https://github.com/SphenHe/Nuclear21Public/pulls)

@@ -6,7 +6,7 @@
 
 ## What's new
 
-* [更新日志](whatsnew.md)
+* [更新日志-20240329](whatsnew.md)
 
 ## 目录
 

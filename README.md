@@ -13,7 +13,7 @@
 
 及每周的更新日志：
 
-- [更新日志-20240329](whatsnew.md)
+- [更新日志-20240909](whatsnew.md)
 
 本文档在 [GitHub](https://github.com/SphenHe/Nuclear21Public) 上进行维护，并在 [GitBook](https://nuclear21.gitbook.io/magazine) 上发布便于阅读的版本
 

@@ -1,16 +1,13 @@
-> 最后更新于2024年3月29日，仅记录新增杂志或旧杂志补充
+> 最后更新于2024年9月9日，仅记录新增杂志或旧杂志补充
 
 | 杂志 | 图片 | 日期 | 新增数量 |
 | :--- | :---: | :--- | :---: |
-| 看天下 | ![KTX20240328](magazine/KTX/image/KTX20240328.jpg) | 20240328 | 1 |
-| 看天下 | ![KTX20240318](magazine/KTX/image/KTX20240318.jpg) | 20240318 | 1 |
-| 看天下 | ![KTX20240308](magazine/KTX/image/KTX20240308.jpg) | 20240308 | 1 |
-| 看天下 | ![KTX20240228](magazine/KTX/image/KTX20240228.jpg) | 20240228 | 1 |
-| 国防科技工业 | ![GFKJGY202402](magazine/GFKJGY/image/GFKJGY202402.jpg) | 202402 | 1 |
-| 国防科技工业 | ![GFKJGY202401](magazine/GFKJGY/image/GFKJGY202401.jpg) | 202401 | 1 |
-| 环球科学 | ![HQKX202403](magazine/HQKX/image/HQKX202403.jpg) | 202403 | 1 |
-| 环球科学 | ![HQKX202402](magazine/HQKX/image/HQKX202402.jpg) | 202402 | 1 |
-| 兵器知识 | ![BQZS202403](magazine/BQZS/image/BQZS202403.jpg) | 202403 | 1 |
-| 舰船知识 | ![JCZS202403](magazine/JCZS/image/JCZS202403.jpg) | 202403 | 1 |
-| 航空知识 | ![HKZS202403](magazine/HKZS/image/HKZS202403.jpg) | 202403 | 1 |
-| 读书 | ![DS202403](magazine/DS/image/DS202403.jpg) | 202403 | 1 |
+| 看天下 | ![KTX20240828](magazine/KTX/image/KTX20240828.jpg) | 20240828 | 1 |
+| 看天下 | ![KTX20240818](magazine/KTX/image/KTX20240818.jpg) | 20240818 | 1 |
+| 看天下 | ![KTX20240808](magazine/KTX/image/KTX20240808.jpg) | 20240808 | 1 |
+| 看天下 | ![KTX20240728](magazine/KTX/image/KTX20240728.jpg) | 20240728 | 1 |
+| 兵器知识 | ![BQZS202408](magazine/BQZS/image/BQZS202408.jpg) | 202408 | 1 |
+| 读书 | ![DS202409](magazine/DS/image/DS202409.jpg) | 202409 | 1 |
+| 国防科技工业 | ![GFKJGY202407](magazine/GFKJGY/image/GFKJGY202407.jpg) | 202407 | 1 |
+| 环球科学 | ![HQKX202408](magazine/HQKX/image/HQKX202408.jpg) | 202408 | 1 |
+| 舰船知识 | ![JCZS202409](magazine/JCZS/image/JCZS202409.jpg) | 202409 | 1 |
